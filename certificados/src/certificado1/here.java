@@ -1,6 +1,6 @@
 package certificado1;
 
-public class herencia {
+public class here {
     public static void main(String[] args) {
         CocheElectrico cocheElectrico = new CocheElectrico();
         cocheElectrico.velocidadMaxima = 14;
